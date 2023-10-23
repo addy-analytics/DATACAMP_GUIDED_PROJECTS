@@ -30,10 +30,10 @@ Project task
 2. Each episode's episode number plotted along the x-axis
 3. Each episode's viewership (in millions) plotted along the y-axis
 4. A color scheme reflecting the scaled ratings (not the regular ratings) of each episode, such that:
-- Ratings < 0.25 are colored "red"
-- Ratings >= 0.25 and < 0.50 are colored "orange"
-- Ratings >= 0.50 and < 0.75 are colored "lightgreen"
-- Ratings >= 0.75 are colored "darkgreen"
+  - Ratings < 0.25 are colored "red"
+  - Ratings >= 0.25 and < 0.50 are colored "orange"
+  - Ratings >= 0.50 and < 0.75 are colored "lightgreen"
+  - Ratings >= 0.75 are colored "darkgreen"
 5. A sizing system, such that episodes with guest appearances have a marker size of 250 and episodes without are sized 25
 6. A title, reading "Popularity, Quality, and Guest Appearances on the Office"
 7. An x-axis label reading "Episode Number"
