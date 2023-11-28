@@ -26,7 +26,7 @@ For Unguided Project
      
   5. Provide the name of one of the guest stars who was in the most watched Office episode.
 
-[View Project](https://github.com/addy-analytics/Python-DataCamp-Projects/blob/main/Analyzing%20TV%20Data/notebook.ipynb)
+[View Project Here](https://github.com/addy-analytics/Python-DataCamp-Projects/blob/main/Analyzing%20TV%20Data/notebook.ipynb)
 
 ### 2. Analyzing TV Shows
 #### 📺Project Task
@@ -38,7 +38,7 @@ For Unguided Project
   5. Who has the most halftime show appearances?
   6. Who performed the most songs in a halftime show?
 
-[View Project](https://github.com/addy-analytics/Python-DataCamp-Projects/tree/main/Project%20Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
+[View Project Here](https://github.com/addy-analytics/Python-DataCamp-Projects/tree/main/Project%20Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
 
   
 
