@@ -4,8 +4,8 @@
   
   Thes project are invaluable in honing my proficiency in a crucial data science practice: exploratory data analysis. It equips me with the ability to handle raw data effectively and draw meaningful conclusions from the plots I generate during the analysis process.
 
-## 1.  Project Investigating Netflix Movies and Guest Stars in The Office
-### 📺Project Task
+### 1. Investigating Netflix Movies and Guest Stars in The Office
+#### 📺Project Task
   1. Create a matplotlib scatter plot of the data that contains the following attributes:
     - Each episode's episode number plotted along the x-axis
     - Each episode's viewership (in millions) plotted along the y-axis
@@ -24,6 +24,16 @@
     - A y-axis label reading "Viewership (Millions)"
      
   5. Provide the name of one of the guest stars who was in the most watched Office episode.
+
+### 2. Analyzing TV Shows
+#### 📺Project Task
+
+  1. TV, halftime shows, and the Big Game
+  2. Combined points and Points Difference distribution
+  3. Do blowouts translate to lost viewers?
+  4. Viewership and the ad industry over time
+  5. Who has the most halftime show appearances?
+  6. Who performed the most songs in a halftime show?
 
   
 
